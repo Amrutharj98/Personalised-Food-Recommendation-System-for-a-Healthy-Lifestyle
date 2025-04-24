@@ -12,5 +12,7 @@ Designed a personalised food recommendation engine that provides nutritious meal
 
 ### Skills & Technologies:
 🔹 Python, Pandas, Scikit-learn, TF-IDF, Cosine Similarity
+
 🔹 Data Preprocessing, Feature Engineering, GUI Development
+
 🔹 Dataset: ~500,000 recipes with nutritional info from Kaggle
